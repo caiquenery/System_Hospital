@@ -15,5 +15,5 @@ public class SistemaGerenciamentoHospitalar {
         HomePage hp = new HomePage();
         hp.setVisible(true);
     }
-
+//
 }
